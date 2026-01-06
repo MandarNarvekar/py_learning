@@ -1,0 +1,6 @@
+This is a sample file.
+It contains multiple lines of text.
+Enjoy reading!
+
+Copy to another file
+Copied file.
