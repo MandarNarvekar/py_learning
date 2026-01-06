@@ -21,12 +21,13 @@ print("Copied File content: ")
 print(content)
 f.close()
 
-for i in range(10):
-    filename = f"file_{i}.txt"
-    with open(filename, "w") as f:
-        f.write(f"This is file number {i}\n")   
-        f.close()
+#for i in range(10):
+#    filename = f"file_{i}.txt"
+#    with open(filename, "w") as f:
+#        f.write(f"This is file number {i}\n")   
+#        f.close()
 
     
-    
 
+
+         
