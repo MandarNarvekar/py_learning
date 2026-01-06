@@ -20,7 +20,7 @@ print(sq)
 sqmap= map(lambda x: x ** 2, numbers)
 print(sqmap) 
 print(squared)
- 
+
  
 evens = list(filter(lambda x: x % 2 == 0, numbers))
 evenfilter = filter(lambda x: x % 2 == 0, numbers)
